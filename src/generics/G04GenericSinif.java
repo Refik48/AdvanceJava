@@ -7,6 +7,7 @@ import jdk.swing.interop.SwingInterOpUtils;
 public class G04GenericSinif <T> {  //T: Type
     private T veri;
 
+
     //Default constructor
     public G04GenericSinif() {
 
